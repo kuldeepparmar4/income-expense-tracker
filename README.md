@@ -5,9 +5,7 @@ A full-stack financial management dashboard built with the MERN stack. Users can
 
 ##  Live Demo
 
-🔗 **Frontend:** https://income-expense-tracker-app-six.vercel.app
-
-🔗 **Backend API:** https://income-expense-tracker-l5va.onrender.com/api/transactions
+https://income-expense-tracker-app-six.vercel.app
 
 > **Note:** Backend is hosted on Render free tier. First request may take 30-60 seconds to wake up.
 
