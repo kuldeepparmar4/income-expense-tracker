@@ -1,7 +1,8 @@
 import axios from "axios";
 
 // The base URL of your backend server
-const API_URL = "http://localhost:5000/api/transactions";
+const API_URL =
+  "https://income-expense-tracker-l5va.onrender.com/api/transactions";
 
 // Get all transactions
 export const getTransactions = async () => {
